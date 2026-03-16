@@ -16,4 +16,10 @@ en la Universidad del País Vasco (UPV/EHU).
 
 
 ## Índice de problemas
+0. Problemas de repaso
+    - Optimización básica de funciones
+    - Representación de enteros en distintas bases
+    - Reconstrucción de matrices desde datos dispersos
+    - Identificación de elementos duplicados
+    - Análisis de frecuencias en listas
 
