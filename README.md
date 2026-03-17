@@ -23,3 +23,11 @@ en la Universidad del País Vasco (UPV/EHU).
     - Identificación de elementos duplicados
     - Análisis de frecuencias en listas
 
+1. Procesamiento de cadenas
+    - Limpieza de texto (eliminación de puntuación)
+    - Transformaciones carácter a carácter
+    - Formateo numérico en strings
+    - Cifrado por rotación (tipo Caesar)
+    - Búsqueda de patrones con solapamientos
+    - Tokenización con separadores arbitrarios
+
