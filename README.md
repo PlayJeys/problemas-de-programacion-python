@@ -6,9 +6,9 @@ acompañados de posibles soluciones.
 Los problemas están pensados para desarrollar pensamiento algorítmico y
 comprender los fundamentos de la programación.
 
-Cada problema contiene:
-- el enunciado del problema
-- una implementación posible en Python
+Cada conjunto de problemas contiene:
+- los enunciados de los problemas
+- implementaciones posibles en Python
 
 Muchos de estos problemas fueron desarrollados durante el aprendizaje de
 programación en la asignatura "Fundamentos de la Programación"
