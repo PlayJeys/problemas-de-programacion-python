@@ -37,3 +37,10 @@ en la Universidad del País Vasco (UPV/EHU).
     - Generación de permutaciones aleatorias
     - Generación segura de contraseñas
 
+2. Módulo random
+    - Generación de palabras aleatorias con restricciones
+    - Muestreo de palabras desde un texto
+    - Generación de permutaciones aleatorias
+    - Generación segura de contraseñas
+
+
