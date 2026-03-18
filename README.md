@@ -30,4 +30,10 @@ en la Universidad del País Vasco (UPV/EHU).
     - Cifrado por rotación (tipo Caesar)
     - Búsqueda de patrones con solapamientos
     - Tokenización con separadores arbitrarios
+  
+2. Módulo random
+    - Generación de palabras aleatorias con restricciones
+    - Muestreo de palabras desde un texto
+    - Generación de permutaciones aleatorias
+    - Generación segura de contraseñas
 
