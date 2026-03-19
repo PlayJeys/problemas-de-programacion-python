@@ -1,0 +1,13 @@
+Linea: 0, con 0.0 por ciento de aparición 
+Linea: 1, con 0.0 por ciento de aparición 
+Linea: 2, con 0.0 por ciento de aparición 
+Linea: 3, con 0.0 por ciento de aparición 
+Linea: 4, con 0.0 por ciento de aparición 
+Linea: 5, con 0.0 por ciento de aparición 
+Linea: 6, con 0.0 por ciento de aparición 
+Linea: 7, con 0.0 por ciento de aparición 
+Linea: 8, con 0.0 por ciento de aparición 
+Linea: 9, con 25.0 por ciento de aparición 
+Linea: 10, con 0.0 por ciento de aparición 
+Linea: 11, con 93.33 por ciento de aparición 
+Linea: 12, con 66.67 por ciento de aparición 
