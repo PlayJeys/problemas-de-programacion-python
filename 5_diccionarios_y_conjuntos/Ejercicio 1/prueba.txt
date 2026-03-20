@@ -1,0 +1,5 @@
+
+Escribir en Python una función que tome como entrada un fichero de texto y retorne el histograma de palabras de dicho fichero, 
+en forma de diccionario. Escríbase asimismo una función que, tomando como entrada ese histograma y un entero n, devuelva la 
+lista de palabras que aparecen exactamente n veces en el fichero. Por último, escríbase un programa que pida al usuario el 
+nombre de un fichero y un valor n, y a continuación imprima en líneas sucesivas las palabras que aparecen n veces en dicho fichero.

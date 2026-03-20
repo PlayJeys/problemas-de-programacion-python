@@ -42,3 +42,16 @@ en la Universidad del País Vasco (UPV/EHU).
     - Análisis de texto con restricciones de caracteres
     - Búsqueda y conteo de palabras con condiciones
     - Serialización y comparación de datos (pickle)
+
+4. Tablas hash
+    - Ejercicio de la rectora
+
+5. Diccionarios y conjuntos
+    - Histogramas y frecuencia de palabras
+    - Factorización en primos y estructuras asociadas
+    - Persistencia de datos (shelve) y cálculo del MCD
+    - Indexación de palabras en texto
+    - Operaciones con matrices dispersas
+    - Análisis de rendimiento (listas vs conjuntos)
+    - Estadísticas de caracteres en texto
+    - Simulación de cobertura de conjuntos (problema tipo “coupon collector”)
