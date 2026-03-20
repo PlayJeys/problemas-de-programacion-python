@@ -37,13 +37,8 @@ en la Universidad del País Vasco (UPV/EHU).
     - Generación de permutaciones aleatorias
     - Generación segura de contraseñas
 
-<<<<<<< HEAD
-=======
 3. Ficheros repaso
     - Filtrado de palabras con caracteres prohibidos
     - Análisis de texto con restricciones de caracteres
     - Búsqueda y conteo de palabras con condiciones
     - Serialización y comparación de datos (pickle)
-
->>>>>>> 86e2285 (Añadir conhunto de problemas 3)
-
